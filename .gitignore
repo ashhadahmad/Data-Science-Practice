@@ -1,3 +1,20 @@
 .ipynb_checkpoints
 
 .DS_Store
+*.meta
+14.5 PCA/data/CIFAR-10/cifar-10-python.tar.gz
+14.5 PCA/download.py
+14.5 PCA/dataset.py
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/test_batch
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/readme.html
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/data_batch_5
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/data_batch_4
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/data_batch_3
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/data_batch_2
+14.5 PCA/data/CIFAR-10/cifar-10-batches-py/data_batch_1
+14.5 PCA/cache.py
+14.5 PCA/__pycache__/download.cpython-37.pyc
+14.5 PCA/__pycache__/dataset.cpython-37.pyc
+14.5 PCA/__pycache__/cifar10.cpython-37.pyc
+14.5 PCA/__pycache__/cache.cpython-37.pyc
+14.5 PCA/cifar10.py
